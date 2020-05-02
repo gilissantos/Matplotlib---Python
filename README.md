@@ -26,3 +26,13 @@ Uma sessão com a formatação do gráficos serão abordados nos e os documentos
 <p>
 Todos os exemplos foram criados no <strong>Google Colaboraty - Jupyter Notebook</strong>, desta forma não é necessário instalar o Python a Anaconda e seus respectivos pacotes, pode estudar e armazenar tudo criando uma conta sem custos no Google.
 </p>
+
+<p>
+<strong>Pré-requisitos</strong>:
+- Lógica de programação
+- Conhecimento básicos da linguagem Python
+- Análise e Visualização de dados 
+
+<p>
+<strong>Importante</strong>: Os requisitos são para ter um bom aproveitamento nos estudos deste repositório.
+</p>
