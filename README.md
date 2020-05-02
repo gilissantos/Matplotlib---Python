@@ -36,3 +36,8 @@ Todos os exemplos foram criados no <strong>Google Colaboraty - Jupyter Notebook<
 <p>
 <strong>Importante</strong>: Os requisitos são para ter um bom aproveitamento nos estudos deste repositório.
 </p>
+<br>
+<br>
+<br>
+_____________________________________________________________________________________________________________________________________
+<h3 align="center">Indíces dos exemplos</h3>
