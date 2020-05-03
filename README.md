@@ -40,4 +40,4 @@ Todos os exemplos foram criados no <strong>Google Colaboraty - Jupyter Notebook<
 <br>
 <br>
 _____________________________________________________________________________________________________________________________________
-<h3 align="center">Indíces dos exemplos</h3>
+
