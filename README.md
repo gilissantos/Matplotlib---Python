@@ -3,7 +3,7 @@
 
 
 <p>
-O <strong>Matplotlib</strong> é uma biblioteca da linguagem de programação<strong>Python</strong> para criar visualização de dados em 2D.
+O <strong>Matplotlib</strong> é uma biblioteca da linguagem de programação <strong>Python</strong> para criar visualização de dados em 2D.
 O objetivo desta biblioteca é facilitar as coisas difíceis. Podemos gerar uma série de tipos de gráficos como: Barras, Linhas, Dispersão, Espectros de potência, Histogramas entre outos, com poucas linhas de código.
 <p>
 
