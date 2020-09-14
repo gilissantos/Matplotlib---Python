@@ -1,4 +1,4 @@
-<h2 align="center"> Visualização de Dados com Matplotlib</h1>
+<h1 align="center"> Visualização de Dados com Matplotlib</h1>
 
 
 
